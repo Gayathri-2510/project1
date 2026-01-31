@@ -1,0 +1,36 @@
+body {
+    background-color: grey;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h3 {
+    color: green;
+}
+
+.blue-text {
+    color: blue;
+}
+
+#red-text {
+    color: red;
+}
+
+.abc-images {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.abc-images img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
